@@ -23,6 +23,8 @@
                 ninja
                 git
             ];
+
+            ATOM_DOC_DOXYFILE_DIR = ./.;
         };
     };
 }
